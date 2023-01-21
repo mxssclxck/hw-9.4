@@ -25,3 +25,19 @@
 ![alt text](https://github.com/mxssclxck/hw-9.4/blob/main/img/3.png)
 
 ![alt text](https://github.com/mxssclxck/hw-9.4/blob/main/img/4.png)
+
+## Задание 4
+
+*Установите Grafana.*
+
+*Приложите скриншот левого нижнего угла интерфейса,  чтобы при наведении на иконку пользователя были видны ваши ФИО*
+
+![alt text](https://github.com/mxssclxck/hw-9.4/blob/main/img/5.png)
+
+## Задание 5
+
+*Интегрируйте Grafana и Prometheus.*
+
+*Приложите скриншот дашборда (ID:11074) с поступающими туда данными  из Node Exporter*
+
+![alt text](https://github.com/mxssclxck/hw-9.4/blob/main/img/6.png)
